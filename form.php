@@ -243,8 +243,8 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>📝 Анкета программиста</h1>
-            <p>Заполните форму для участия в сообществе</p>
+            <h1>Анкета</h1>
+            <p>Заполните форму </p>
         </div>
         
         <div class="form-content">
